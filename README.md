@@ -5,7 +5,7 @@ Source: [uidesigndaily](https://uidesigndaily.com/posts/sketch-accordion-website
 ![](./idea.png)
 
 ## Take a look at the current version
-[Current Version](https://www.youtube.com/watch?v=4UZrsTqkcW4&t=0s)
+[Current Version](https://dharmite.github.io/react-accordion)
 
 ### Part of the React Fundamentals Course
 
